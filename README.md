@@ -7,7 +7,7 @@ Hello! I bring over a decade of IT experience across multiple roles, everything 
 
 [My LinkedIn](https://www.linkedin.com/in/tyler-a-johnson-wa/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjohnson986&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjohnson986&exclude_repo=my-portfolio&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 TJohnson986/TJohnson986 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
